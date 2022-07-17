@@ -1,0 +1,81 @@
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csprojAssemblyReference.cache
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.Properties.Resources.resources
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.GenerateResource.cache
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.CoreCompileInputs.cache
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.exe
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.pdb
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.exe
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.pdb
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.PlaceForm.resources
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.WarehouseForm.resources
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ExpertisesForm.resources
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsForm.resources
+C:\Users\Дино\Desktop\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsTypesForm.resources
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.exe
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.pdb
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csprojAssemblyReference.cache
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ExpertisesForm.resources
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsForm.resources
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsTypesForm.resources
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.PlaceForm.resources
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.Properties.Resources.resources
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.WarehouseForm.resources
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.GenerateResource.cache
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.CoreCompileInputs.cache
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.exe
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.pdb
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.ResolveComReference.cache
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportStocks.resources
+D:\Other\VisualStudioProjects\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportProfit.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.exe
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.pdb
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csprojAssemblyReference.cache
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.ResolveComReference.cache
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ExpertisesForm.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsForm.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsTypesForm.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.PlaceForm.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.Properties.Resources.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportProfit.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportStocks.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.WarehouseForm.resources
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.GenerateResource.cache
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.CoreCompileInputs.cache
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.exe
+E:\Code\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.pdb
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.exe
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.pdb
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csprojAssemblyReference.cache
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.ResolveComReference.cache
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ExpertisesForm.resources
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsForm.resources
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsTypesForm.resources
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.PlaceForm.resources
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.Properties.Resources.resources
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportProfit.resources
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportStocks.resources
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.WarehouseForm.resources
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.GenerateResource.cache
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.CoreCompileInputs.cache
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.exe
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.pdb
+E:\Code\C#\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportSuppliers.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.exe.config
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.exe
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\bin\Debug\Hlebzavod_Project.pdb
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.AssemblyReference.cache
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.ResolveComReference.cache
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ExpertisesForm.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsForm.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.OperationsTypesForm.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.PlaceForm.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.Properties.Resources.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportProfit.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportStocks.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.ReportSuppliers.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.WarehouseForm.resources
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.GenerateResource.cache
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.csproj.CoreCompileInputs.cache
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.exe
+C:\Users\Дино\Desktop\Hlebzavod Project\Hlebzavod_Project\Hlebzavod_Project\Hlebzavod_Project\obj\Debug\Hlebzavod_Project.pdb
